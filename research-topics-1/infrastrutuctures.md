@@ -13,9 +13,21 @@ Tables are easy to insert:
 | Content here | Here |
 | And also here | - |
 
-a
+Equations are also possible with just a bit of LaTeX knowledge \(or an online converter\):
 
 $$
-a = b2
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
+
+And this includes all kinds of symbols and expressions.
+
+$$
+\alpha  \beta  \gamma \rho \sigma \delta \epsilon\times \otimes \oplus \cup \cap
+
+\int \oint \sum \prod 
+
+< > \subset \supset \subseteq \supseteq
+$$
+
+
 
