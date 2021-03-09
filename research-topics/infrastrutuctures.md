@@ -13,5 +13,9 @@ Tables are easy to insert:
 | Content here | Here |
 | And also here | - |
 
+a
 
+$$
+a = b2
+$$
 
