@@ -7,3 +7,11 @@ description: >-
 
 # Policies
 
+You can create internal navigation links:
+
+{% page-ref page="../frequently-asked-questions.md" %}
+
+
+
+On top of the ones automatically generated below:
+

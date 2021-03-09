@@ -6,3 +6,12 @@ description: >-
 
 # Infrastrutuctures
 
+Tables are easy to insert:
+
+| Table example | Another Column |
+| :--- | :--- |
+| Content here | Here |
+| And also here | - |
+
+
+
