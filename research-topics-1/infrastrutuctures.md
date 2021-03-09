@@ -6,7 +6,7 @@ description: >-
 
 # Infrastrutuctures
 
-Tables are easy to insert:
+Tables are easy to insert: 
 
 | Table example | Another Column |
 | :--- | :--- |
