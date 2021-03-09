@@ -10,3 +10,8 @@
 * [Indicators](research-topics/indicators.md)
 * [Assessment](research-topics/assessment.md)
 
+---
+
+* [Embed dashboard](embed-dashboard.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
+
