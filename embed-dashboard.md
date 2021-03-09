@@ -1,8 +1,4 @@
-# Embed dashboard
+# Embed video
 
-```text
-sgasdf
-```
-
-
+![](.gitbook/assets/sr-thinking-tool-demo.mp4)
 
