@@ -15,5 +15,4 @@
 * [Embed video](embed-dashboard.md)
 * [Embed dashboard](embed-dashboard-1.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
-* [Five schools of open science](five-schools-of-open-science.md)
 
