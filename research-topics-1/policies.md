@@ -9,7 +9,8 @@ description: >-
 
 You can create internal navigation links:
 
-{% page-ref page="../frequently-asked-questions.md" %}
+{% content-ref url="../frequently-asked-questions.md" %}
+[frequently-asked-questions.md](../frequently-asked-questions.md)
+{% endcontent-ref %}
 
 On top of the ones automatically generated below:
-

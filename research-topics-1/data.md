@@ -17,5 +17,3 @@ JOIN database2 AS p2 ON p1.id = p2.id
 
 ```
 
-
-

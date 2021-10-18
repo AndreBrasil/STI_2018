@@ -9,11 +9,11 @@ description: >-
 Tables are easy to insert: 
 
 | Table example | Another Column |
-| :--- | :--- |
-| Content here | Here |
-| And also here | - |
+| ------------- | -------------- |
+| Content here  | Here           |
+| And also here | -              |
 
-Equations are also possible with just a bit of LaTeX knowledge \(or an online converter\):
+Equations are also possible with just a bit of LaTeX knowledge (or an online converter):
 
 $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
@@ -31,3 +31,4 @@ $$
 
 
 
+Test.
